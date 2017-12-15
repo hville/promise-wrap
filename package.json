@@ -1,6 +1,6 @@
 {
   "name": "@hugov/promise-wrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "complete other promise before continuing with results",
   "keywords": [
     "promise"
@@ -13,5 +13,8 @@
     "type": "git",
     "url": "https://github.com/hville/puppet-call"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.5.1"
+  }
 }
