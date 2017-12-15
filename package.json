@@ -1,0 +1,17 @@
+{
+  "name": "@hugov/promise-wrap",
+  "version": "0.0.1",
+  "description": "complete other promise before continuing with results",
+  "keywords": [
+    "promise"
+  ],
+  "author": "Hugo Villeneuve",
+  "scripts": {
+    "post": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hville/puppet-call"
+  },
+  "license": "MIT"
+}
